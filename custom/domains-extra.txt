@@ -1,6 +1,117 @@
-# Свои дополнительные домены для DIRECT (geosite:russia-inside).
-# Один домен на строку. Поддомены покрываются автоматически.
-# Пустые строки и текст после # игнорируются.
-#
-# mybank.ru
-# corp-portal.example.com
+# VK, MAX, Одноклассники, Mail.ru
+vk.com
+vk.ru
+vk-portal.net
+userapi.com
+vkuserphoto.ru
+vk-analytics.ru
+okcdn.ru
+ok.ru
+mail.ru
+my.mail.ru
+max.ru
+
+# Госуслуги и государственные сервисы
+gosuslugi.ru
+nalog.gov.ru
+mos.ru
+mosreg.ru
+gov.ru
+kremlin.ru
+pfr.gov.ru
+sfr.gov.ru
+fssp.gov.ru
+
+# Яндекс и Кинопоиск
+yandex.ru
+ya.ru
+yandex.net
+yandexcloud.net
+yastatic.net
+yandex-team.ru
+kinopoisk.ru
+kinopoisk.com
+
+# Карты и навигация
+2gis.ru
+2gis.com
+
+# Видео, кино, музыка
+rutube.ru
+rutube.com
+ivi.ru
+okko.tv
+start.ru
+premier.one
+smotrim.ru
+ntv.ru
+wink.ru
+kion.ru
+zvuk.com
+
+# Банки и платежи
+sberbank.ru
+sber.ru
+tbank.ru
+tinkoff.ru
+alfabank.ru
+vtb.ru
+gazprombank.ru
+raiffeisen.ru
+rshb.ru
+psbank.ru
+sovcombank.ru
+ozonbank.ru
+nspk.ru
+mironline.ru
+yoomoney.ru
+
+# Маркетплейсы и магазины
+ozon.ru
+wildberries.ru
+wb.ru
+avito.ru
+youla.ru
+megamarket.ru
+lamoda.ru
+dns-shop.ru
+mvideo.ru
+eldorado.ru
+citilink.ru
+detmir.ru
+
+# Связь и операторы
+mts.ru
+beeline.ru
+megafon.ru
+t2.ru
+rt.ru
+rostelecom.ru
+
+# Транспорт, билеты, доставка
+rzd.ru
+aeroflot.ru
+pobeda.aero
+tutu.ru
+samokat.ru
+kuper.ru
+dostavista.ru
+
+# Работа, новости, сообщества
+hh.ru
+superjob.ru
+habr.com
+vc.ru
+drive2.ru
+drom.ru
+4pda.to
+rbc.ru
+ria.ru
+tass.ru
+lenta.ru
+kommersant.ru
+vedomosti.ru
+fontanka.ru
+kp.ru
+championat.com
+sports.ru
