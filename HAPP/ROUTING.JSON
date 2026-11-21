@@ -12,11 +12,8 @@
   "DomesticDNSIP": "77.88.8.8",
   "Geositeurl": "https://cdn.jsdelivr.net/gh/BlaaadX/happ-routing@main/release/geosite.dat",
   "Geoipurl": "https://cdn.jsdelivr.net/gh/BlaaadX/happ-routing@main/release/geoip.dat",
-  "LastUpdated": "1795268471",
-  "DnsHosts": {
-    "lkfl2.nalog.ru": "213.24.64.175",
-    "lknpd.nalog.ru": "213.24.64.181"
-  },
+  "LastUpdated": "1795268875",
+  "DnsHosts": {},
   "RouteOrder": "block-proxy-direct",
   "DirectSites": [
     "geosite:private",
@@ -25,21 +22,11 @@
   ],
   "DirectIp": [
     "geoip:private",
-    "geoip:direct",
     "geoip:russia-inside"
   ],
-  "ProxySites": [
-    "geosite:google-play",
-    "geosite:github",
-    "geosite:twitch-ads",
-    "geosite:youtube",
-    "geosite:telegram"
-  ],
+  "ProxySites": [],
   "ProxyIp": [],
-  "BlockSites": [
-    "geosite:win-spy",
-    "geosite:category-ads"
-  ],
+  "BlockSites": [],
   "BlockIp": [],
   "DomainStrategy": "IPIfNonMatch",
   "FakeDNS": "false"
