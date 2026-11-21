@@ -19,19 +19,9 @@
   },
   "RouteOrder": "block-proxy-direct",
   "DirectSites": [
-    "geosite:private",
-    "geosite:russia-inside",
-    "geosite:category-ru",
-    "geosite:whitelist",
-    "geosite:microsoft",
-    "geosite:apple",
-    "geosite:epicgames",
-    "geosite:riot",
-    "geosite:escapefromtarkov",
-    "geosite:steam",
-    "geosite:twitch",
-    "geosite:pinterest",
-    "geosite:faceit"
+  "geosite:private",
+  "geosite:russia-inside",
+  "geosite:category-ru"
   ],
   "DirectIp": [
     "geoip:private",
