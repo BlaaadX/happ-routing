@@ -12,7 +12,7 @@
   "DomesticDNSIP": "77.88.8.8",
   "Geositeurl": "https://cdn.jsdelivr.net/gh/BlaaadX/happ-routing@main/release/geosite.dat",
   "Geoipurl": "https://cdn.jsdelivr.net/gh/BlaaadX/happ-routing@main/release/geoip.dat",
-  "LastUpdated": "1795267857",
+  "LastUpdated": "1795268471",
   "DnsHosts": {
     "lkfl2.nalog.ru": "213.24.64.175",
     "lknpd.nalog.ru": "213.24.64.181"
@@ -21,17 +21,7 @@
   "DirectSites": [
     "geosite:private",
     "geosite:russia-inside",
-    "geosite:category-ru",
-    "geosite:whitelist",
-    "geosite:microsoft",
-    "geosite:apple",
-    "geosite:epicgames",
-    "geosite:riot",
-    "geosite:escapefromtarkov",
-    "geosite:steam",
-    "geosite:twitch",
-    "geosite:pinterest",
-    "geosite:faceit"
+    "geosite:category-ru"
   ],
   "DirectIp": [
     "geoip:private",
