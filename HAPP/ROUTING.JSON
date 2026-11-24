@@ -12,7 +12,7 @@
   "DomesticDNSIP": "77.88.8.8",
   "Geositeurl": "https://cdn.jsdelivr.net/gh/BlaaadX/happ-routing@main/release/geosite.dat",
   "Geoipurl": "https://cdn.jsdelivr.net/gh/BlaaadX/happ-routing@main/release/geoip.dat",
-  "LastUpdated": "1795445149",
+  "LastUpdated": "1795532158",
   "DnsHosts": {},
   "RouteOrder": "block-proxy-direct",
   "DirectSites": [
